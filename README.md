@@ -1,5 +1,8 @@
 <h1 align="center">👋 Hello, I'm Mark</h1>
-- 📫 My telegram [@mrybs1](https://mrybs1.t.me)
+---
+<h3>📫 Contact me</h3>
+- Telegram https://mrybs1.t.me
+- Email mrybs2@gmail.com
 
 [![wakatime](https://wakatime.com/badge/user/31132aa8-7bac-4b91-ade9-28da2cf0d9b9.svg?style=social)](https://wakatime.com/@31132aa8-7bac-4b91-ade9-28da2cf0d9b9)
 
