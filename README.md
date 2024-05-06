@@ -12,7 +12,7 @@
 
 [![Top Languages](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mrybs&theme=transparent)](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mrybs&theme=transparent)
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=mrybs&rank=S&column=-1&theme=flat&margin-w=10&margin-h=10&no-bg=true)](https://github-profile-trophy.vercel.app/?username=mrybs)
+[![Trophies](https://github-profile-trophy.vercel.app/?username=mrybs&no-bg=true&theme=flat&margin-h=10&margin-w=10&column=-1)](https://github-profile-trophy.vercel.app/?username=mrybs)
 
 <!---
 mrybs/mrybs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
