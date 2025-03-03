@@ -1,8 +1,8 @@
-<h1 align="center">👋 Hello, I'm Mark</h1>
-<h3>📫 Contact me</h3>
+<h1 align="center">👋 Привет, я Марк</h1>
+<h3>📫 Контакты</h3>
 
 - Telegram [@mrybs1](https://mrybs1.t.me)
-- Email mrybs2@gmail.com
+- Почта mrybs2@gmail.com
 
 [![wakatime](https://wakatime.com/badge/user/31132aa8-7bac-4b91-ade9-28da2cf0d9b9.svg?style=social)](https://wakatime.com/@31132aa8-7bac-4b91-ade9-28da2cf0d9b9)
 
