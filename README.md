@@ -5,6 +5,8 @@
 - Почта mrybs2@gmail.com
 
 [![wakatime](https://wakatime.com/badge/user/31132aa8-7bac-4b91-ade9-28da2cf0d9b9.svg?style=social)](https://wakatime.com/@31132aa8-7bac-4b91-ade9-28da2cf0d9b9)
+![GitHub User's stars](https://img.shields.io/github/stars/mrybs)
+![GitHub followers](https://img.shields.io/github/followers/mrybs)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=mrybs&theme=transparent)]([https://git.io/streak-stats](https://streak-stats.demolab.com/?user=mrybs&theme=transparent))
 
