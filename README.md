@@ -8,6 +8,9 @@
 ![GitHub User's stars](https://img.shields.io/github/stars/mrybs)
 ![GitHub followers](https://img.shields.io/github/followers/mrybs)
 
+<img src="/Media/Badges/Quick-Draw/PNG/Skin-Tones/QuickDraw_SkinTone1.png" width="60px">
+<img src="/Media/Badges/Pull-Shark/PNG/PullShark_Bronze.png" width="60px" align="center">
+
 ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fmrxx.ru%3A7777%2Fapi%2Fusers%3Ftelegram_id%3D1162329970&query=%24%5B0%5D.uuid&label=Miot%20ID)
 ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fmrxx.ru%3A7777%2Fapi%2Fitems%3Fowner%3Du%2Fmrybs%26type%3Dmiocoin&query=%24%5B0%5D.count&label=Miocoins&color=Ee9955)
 ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fmrxx.ru%3A7777%2Fapi%2Fitems%3Fowner%3Du%2Fmrybs%26type%3Dmiogem&query=%24%5B0%5D.count&label=Miogems&color=Ee9955)
