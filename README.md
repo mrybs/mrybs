@@ -24,6 +24,7 @@
 - Telegram [@mrybs1](https://mrybs1.t.me)
 - Почта mrybs2@gmail.com
 - Stackoverflow [Mr. Ybs](https://stackoverflow.com/users/29167976/mr-ybs)
+- Miot [u/mrybs](https://mrxx.ru:7777/u/mrybs)
 
 <img align="center" style="width: 98%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mrybs" alt="Mrybs's GitHub stats" />
 
