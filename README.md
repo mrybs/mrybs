@@ -15,8 +15,8 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/drknzz/GitHub-Achievements/blob/main/Media/Badges/Pull-Shark/PNG/PullShark_Bronze.png" width="60px" align="center" />
-  <img src="https://github.com/drknzz/GitHub-Achievements/blob/main/Media/Badges/Quick-Draw/PNG/Skin-Tones/QuickDraw_SkinTone1.png" width="60px" align="center" />
+  <a href="https://github.com/mrybs?achievement=pull-shark&tab=achievements"><img src="https://github.com/drknzz/GitHub-Achievements/blob/main/Media/Badges/Pull-Shark/PNG/PullShark_Bronze.png" width="60px" align="center" /></a>
+  <a href="https://github.com/mrybs?achievement=quickdraw&tab=achievements"><img src="https://github.com/drknzz/GitHub-Achievements/blob/main/Media/Badges/Quick-Draw/PNG/Skin-Tones/QuickDraw_SkinTone1.png" width="60px" align="center" /></a>
 </p>
 
 <h3>📫 Связаться со мной:</h3>
