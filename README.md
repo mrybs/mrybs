@@ -39,3 +39,5 @@
 </div>
 
 <img align="center" style="width: 98%" src="https://github-profile-trophy.vercel.app/?username=mrybs&margin-h=10&margin-w=10&column=5&row=2" alt="Trophies" />
+
+Летов не умер, живёт в лесах Сибири 
