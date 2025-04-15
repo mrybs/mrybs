@@ -27,7 +27,7 @@
 - Miot [u/mrybs](https://mrxx.ru/u/mrybs)
 
 <details>
-  <summary>⚡Показать статистику</summary>
+  <summary><h3>⚡Показать статистику</h3></summary>
 
 <img align="center" style="width: 98%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mrybs" alt="Mrybs's GitHub stats" />
 
