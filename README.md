@@ -26,6 +26,9 @@
 - Stackoverflow [Mr. Ybs](https://stackoverflow.com/users/29167976/mr-ybs)
 - Miot [u/mrybs](https://mrxx.ru/u/mrybs)
 
+<details>
+  <summary>⚡Показать статистику</summary>
+
 <img align="center" style="width: 98%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mrybs" alt="Mrybs's GitHub stats" />
 
 <div style="display: flex">
@@ -40,6 +43,4 @@
 
 <img align="center" style="width: 98%" src="https://github-profile-trophy.vercel.app/?username=mrybs&margin-h=10&margin-w=10&column=5&row=2" alt="Trophies" />
 
-<!--Летов не умер, живёт в лесах Сибири
-
-Иуда будет в раю-->
+</details
