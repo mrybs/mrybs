@@ -19,7 +19,7 @@
   <a href="https://github.com/mrybs?achievement=quickdraw&tab=achievements"><img src="https://github.com/drknzz/GitHub-Achievements/blob/main/Media/Badges/Quick-Draw/PNG/Skin-Tones/QuickDraw_SkinTone1.png" width="60px" align="center" /></a>
 </p>
 
-<h3>👤 Это я</h3>
+<h3>👤 Мои аккуанты</h3>
 
 - Telegram [@mrybs1](https://mrybs1.t.me)
 - Почта mrybs2@gmail.com
