@@ -20,7 +20,7 @@
  <a href="https://github.com/mrybs?achievement=yolo&tab=achievements"><img src="https://github.com/drknzz/GitHub-Achievements/blob/main/Media/Badges/YOLO/PNG/YOLO_Badge.png" width="60px" align="center" /></a>
 </p>
 
-<h3>👤 Это тоже я</h3>
+<h3>👤 Тоже я</h3>
 
 - Telegram [@mrybs1](https://mrybs1.t.me)
 - Почта mrybs2@gmail.com
