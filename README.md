@@ -1,4 +1,4 @@
-<h1 align="center">🙋‍♂️ Привет, я Марк</h1>
+<h1 align="center">🙋‍♂️ Привет, я Марк!</h1>
 
 <p align="center">
   <a href="https://wakatime.com/@31132aa8-7bac-4b91-ade9-28da2cf0d9b9">
