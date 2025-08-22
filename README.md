@@ -16,8 +16,6 @@
 
 <p align='center'>
 <img src="https://komarev.com/ghpvc/?username=mrybs&style=flat-square&color=blue&style=for-the-badge" alt=""/>
-<img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/mrybs?color=236ad3&style=for-the-badge&logo=github&label=Follow"/>
-<img src="https://img.shields.io/github/stars/mrybs?label=Stars&style=for-the-badge" alt="stars">
 </p>
 
 <p align="center">
