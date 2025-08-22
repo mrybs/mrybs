@@ -15,7 +15,7 @@
 </p>
 
 <p align='center'>
-<img src="https://komarev.com/ghpvc/?username=mrybs&style=flat-square&color=blue&style=for-the-badge" alt=""/>
+<img src="https://komarev.com/ghpvc/?username=mrybs&style=flat-square&color=white&style=for-the-badge" alt=""/>
 </p>
 
 <p align="center">
