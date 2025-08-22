@@ -14,6 +14,12 @@
   <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fmrxx.ru%2Fapi%2Fitems%3Fowner%3Du%2Fmrybs%26type%3Dmiogem&query=%24%5B0%5D.count&label=Miogems&color=Ee9955" alt="Miogems" />
 </p>
 
+<p align='center'>
+<img src="https://komarev.com/ghpvc/?username=mrybs&style=flat-square&color=blue&style=for-the-badge" alt=""/>
+<img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/mrybs?color=236ad3&style=for-the-badge&logo=github&label=Follow"/>
+<img src="https://img.shields.io/github/stars/mrybs?label=Stars&style=for-the-badge" alt="stars">
+</p>
+
 <p align="center">
   <a href="https://github.com/mrybs?achievement=pull-shark&tab=achievements"><img src="https://github.com/drknzz/GitHub-Achievements/blob/main/Media/Badges/Pull-Shark/PNG/PullShark_Bronze.png" width="60px" align="center" /></a>
   <a href="https://github.com/mrybs?achievement=quickdraw&tab=achievements"><img src="https://github.com/drknzz/GitHub-Achievements/blob/main/Media/Badges/Quick-Draw/PNG/Skin-Tones/QuickDraw_SkinTone1.png" width="60px" align="center" /></a>
