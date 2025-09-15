@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fmrxx.ru%2Fapi%2Fusers%3Ftelegram_id%3D1162329970&query=%24%5B0%5D.uuid&label=Miot%20ID" alt="Miot ID" />
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fmrxx.ru%2Fapi%2Fusers%3Ftelegram_id%3D1162329970&query=%24%5B0%5D.uid&label=Miot%20ID" alt="Miot ID" />
   <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fmrxx.ru%2Fapi%2Fitems%3Fowner%3Du%2Fmrybs%26type%3Dmiocoin&query=%24%5B0%5D.count&label=Miocoins&color=Ee9955" alt="Miocoins" />
   <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fmrxx.ru%2Fapi%2Fitems%3Fowner%3Du%2Fmrybs%26type%3Dmiogem&query=%24%5B0%5D.count&label=Miogems&color=Ee9955" alt="Miogems" />
 </p>
